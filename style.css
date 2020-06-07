@@ -9,7 +9,7 @@ body {
   height: 100vh;
   background: #404040;
   align-items: center;
-  font-family: "Fredoka One", sans-serif;
+  /* font-family: "Fredoka One", sans-serif; */
 }
 
 .container {
@@ -24,12 +24,15 @@ h1 {
   color: #fff;
   margin-bottom: 50px;
   letter-spacing: 3px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
 }
 
 span {
   font-size: 120px;
   color: #fff;
-  margin: 0 40px;
+  margin: 0 50px;
+  font-family: "Roboto", sans-serif;
 }
 
 a {
